@@ -1,0 +1,33 @@
+{
+    "products": [
+      {
+        "serialNumber": "SN12345678",
+        "modelNumber": "MDL987654",
+        "cnNumber": "CN0001",
+        "location": "Warehouse A",
+        "images": [
+          "/images/product1_image1.jpg"
+        ],
+        "parts": [
+          "Engine",
+          "Transmission",
+          "Brakes"
+        ]
+      },
+      {
+        "serialNumber": "SN87654321",
+        "modelNumber": "MDL123456",
+        "cnNumber": "CN0002",
+        "location": "Warehouse B",
+        "images": [
+          "/images/product1_image2.jpg"
+        ],
+        "parts": [
+          "Battery",
+          "Exhaust",
+          "Suspension"
+        ]
+      }
+    ]
+  }
+  
